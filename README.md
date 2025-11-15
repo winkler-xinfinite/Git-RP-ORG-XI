@@ -7,10 +7,10 @@ Se recomienda crear una organización que sea la propitaria del repositrio princ
 
 ### Pasos para crear una Organización 
 
-1.
-2.
-3.
-4.
+1. Click en perfil
+2. Clien en organización
+3. Click en crear nueva organización
+4. Click en cuenta free
 
 ## Creación de Fork 
 
