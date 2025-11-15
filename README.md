@@ -14,3 +14,13 @@ Se recomienda crear una organización que sea la propitaria del repositrio princ
 
 ## Creación de Fork 
 
+
+## Como trabajar ocn dos o mas remotos 
+
+- Listar remotos
+  `git remote -v`
+- Agregar remotos 
+  `git remote add NamePro git@github.com:winkler-palacios/project.git`
+- Eliminar remotos 
+  `git add remove NamePro`
+
