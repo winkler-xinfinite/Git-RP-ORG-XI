@@ -24,4 +24,4 @@ Para crear un fork debes iniciar sesión en GitHub y luego ingresar a la página
 ```git remote add NamePro git@github.com:winkler-palacios/project.git```
 
 - 🗑️ Eliminar un remoto
-``git add remove NamePro```
+```git add remove NamePro```
