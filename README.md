@@ -25,3 +25,6 @@ Para crear un fork debes iniciar sesión en GitHub y luego ingresar a la página
 
 - 🗑️ Eliminar un remoto
 ```git add remove NamePro```
+## Creando Etiquetas 
+¡Se recomienda crear las etiquetas `tags` dentro de la rama `master` o `main` es una buena practica!
+> Asi mismo tenemos una documentacion de cuando podemos crear un tags [Crea tu tags](https://ed.team/blog/como-se-deciden-las-versiones-del-software)
